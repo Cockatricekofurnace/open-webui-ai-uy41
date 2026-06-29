@@ -1,4 +1,4 @@
-# 
+# Nuevo Open WebUI plugins. Con implementación de modelos y interfaz amigable — optimizado para el máximo rendimiento y eficiencia.
 
 
 
